@@ -23,12 +23,17 @@
 
 #### Package Diagram
 
+- used to organize the artifacts of the dev. process (problem analysis & design)
+
+- divide the system into (layers, packages/modules, ...)
+
 #### Component Diagram
 
 #### Deployment Diagram
 
 #### Class Diagram
 
+---
 
 ### Behavior Diagrams
 
@@ -37,6 +42,8 @@
 #### Activity Diagram
 
 #### State Machine Diagram
+
+---
 
 ### Interaction Diagrams (Sub-category of Behavior Diagrams)
 
