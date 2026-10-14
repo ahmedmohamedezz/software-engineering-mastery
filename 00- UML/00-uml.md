@@ -29,6 +29,11 @@
 
 #### Component Diagram
 
+- a component is a cluster of classes that are themselves cohesive but are loosely coupled relative to other clusters
+
+- components may be used to hierarchically decompose
+a system and represent its logical architecture
+
 #### Deployment Diagram
 
 #### Class Diagram
