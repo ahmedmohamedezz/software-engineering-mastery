@@ -40,6 +40,8 @@ a system and represent its logical architecture
 
 #### Class Diagram
 
+- used to show the existence of classes and their relationships in the logical view of a system
+
 ---
 
 ### Behavior Diagrams
@@ -57,3 +59,5 @@ a system and represent its logical architecture
 ### Interaction Diagrams (Sub-category of Behavior Diagrams)
 
 #### Sequence Diagram
+
+- used to trace the execution of a scenario
