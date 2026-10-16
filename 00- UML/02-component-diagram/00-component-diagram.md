@@ -22,10 +22,3 @@
 - if we need to show more details about a component’s interfaces, we may provide an interface specification
 
 ![interface specification](./component-interfaces.png)
-
-
----
-
-### Readings
-
-- cohision vs. coupling

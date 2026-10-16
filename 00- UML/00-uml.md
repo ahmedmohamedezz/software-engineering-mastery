@@ -36,6 +36,8 @@ a system and represent its logical architecture
 
 #### Deployment Diagram
 
+- used to show the deployment of artifacts to nodes that host them and the interaction between deployment nodes
+
 #### Class Diagram
 
 ---
@@ -43,6 +45,8 @@ a system and represent its logical architecture
 ### Behavior Diagrams
 
 #### Use Case Diagram
+
+- used to model the functionality of the system from the actors point-of-view (what they expect the system to do)
 
 #### Activity Diagram
 
@@ -53,4 +57,3 @@ a system and represent its logical architecture
 ### Interaction Diagrams (Sub-category of Behavior Diagrams)
 
 #### Sequence Diagram
-

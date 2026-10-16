@@ -87,7 +87,6 @@
   - parent pkg can't directly access child pkg contents without relationship
   - child pkg automatically access parent pkg public members using un-qualified names
 
-
 ---
 
 ### Readings
