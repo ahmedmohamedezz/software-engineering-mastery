@@ -2,7 +2,7 @@
 
 - used to trace the execution of a scenario
 
-- component diagram **essential elements**
+- sequence diagram **essential elements**
   - **objects**
   - **interactions**
   - **life lines**

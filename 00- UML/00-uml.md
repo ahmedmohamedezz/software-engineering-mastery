@@ -11,7 +11,10 @@
 
 - even in a single type (class-diagram), we can use multiple ones to express the system instead of having 1 giant diagram
 
-- the use of diagrams is necessary as they serve as a system documentation for other roles (newcomers, designers, analysts) while the system is being built and overtime
+- the use of diagrams is necessary as they serve as a
+  - system documentation for other roles (newcomers, designers, analysts) while the system is being built and overtime
+  - it let's you think before you code
+  - it let's understand the business rules behind the system
 
 ---
 
@@ -51,6 +54,11 @@ a system and represent its logical architecture
 - used to model the functionality of the system from the actors point-of-view (what they expect the system to do)
 
 #### Activity Diagram
+
+- used to provide visual depictions of the flow of activities, whether in a system, business, workflow, or other process
+
+- These diagrams focus on the activities that are performed and who (or what) is responsible for the performance of
+those activities
 
 #### State Machine Diagram
 

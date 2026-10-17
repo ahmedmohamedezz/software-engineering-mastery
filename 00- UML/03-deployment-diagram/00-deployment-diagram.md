@@ -2,7 +2,7 @@
 
 - used to show the allocation of artifacts to nodes in the physical design of a system
 
-- component diagram **essential elements**
+- deployment diagram **essential elements**
   - **artifacts**
   - **nodes**
 

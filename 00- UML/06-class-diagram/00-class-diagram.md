@@ -2,7 +2,7 @@
 
 - used to show the existence of classes and their relationships in the logical view of a system
 
-- component diagram **essential elements**
+- class diagram **essential elements**
   - **classes**
   - **relationships**
 

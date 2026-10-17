@@ -2,7 +2,7 @@
 
 - used to model the functionality of the system, and the **actors** who interact with it (people / other systems)
 
-- component diagram **essential elements**
+- use case diagram **essential elements**
   - **actors**
   - **use-cases**
 
