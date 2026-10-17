@@ -62,6 +62,11 @@ those activities
 
 #### State Machine Diagram
 
+- used to design and understand time-critical systems, in
+which the consequences of improper timing are severe
+
+- used to describe the behavior of individual objects
+
 ---
 
 ### Interaction Diagrams (Sub-category of Behavior Diagrams)
