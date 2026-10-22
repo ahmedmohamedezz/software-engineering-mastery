@@ -18,13 +18,13 @@
 
 - visibility is either public (+), or private (-) placed at the front of the package name `+RoutingMetrics`, `-RoutingConfig`
 
-- public is visible to 
+- public is visible to
   - elements within it's containing package (including nested packages)
   - external elements of other packages (that has relationship with this package)
 
 - public visibility could be thought of as the **package interface**
 
-- private is visible to 
+- private is visible to
   - elements within it's containing package (including nested packages)
   - nested packages within itself (children)
 
@@ -90,7 +90,6 @@
   - any private member is invisible anywhere (parent pkg / child pkg / external pkg)
   - parent pkg can't directly access child pkg contents without relationship
   - child pkg automatically access parent pkg public members using un-qualified names
-
 
 ---
 
