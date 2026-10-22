@@ -1,6 +1,12 @@
 # Component Diagram
 
-- used to indicate the logical layering and partitioning of our architecture
+- describes the **runtime** software modules
+
+- models the modular, **executable** building blocks of the system
+
+- treat modules as components that interacte with each other (require, or provide)
+
+> It answers: What are the actual software modules (services, apps, databases) that must be **running** to satisfy the logical design?
 
 - component diagram **essential elements** are
   - **components**
@@ -15,7 +21,7 @@
 
 - ports could be inside the component
 
-- provided interfaces represented by **ball-and-socket** notation
+- provided interfaces (provided by this component) represented by **ball-and-socket** notation
 
 - required interfaces represented by **socket** notation
 
