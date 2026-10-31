@@ -16,6 +16,11 @@
 
 - **complete** set of event/transactions that can be performed by an actor. represented by ovals
 
+> A use case is not a description of a single functional requirement but rather a description of
+something that provides significant value to the actor invoking it
+
+- use cases provide a high-level overview of the system's behavior from the actors point-of-view. but it's still insufficient to begin analysing the system with this information. we still need non-functional requirements & domain knowledge
+
 ![use cases](./use-cases.png)
 
 ---
