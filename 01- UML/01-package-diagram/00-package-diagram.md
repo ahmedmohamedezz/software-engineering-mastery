@@ -2,6 +2,8 @@
 
 - used to organize the artifacts of the dev. process (problem analysis & design)
 
+> It answers: Where do we put the source code for a specific feature, and which other code modules does it rely upon?
+
 - package diagram has **2 primary notations**
   - **package**: rectangle with name tab at the top-left
   - **dependency relationship**: dashed arrow (open head) `--->`
@@ -9,6 +11,8 @@
 - name tab is at the interior (above) the rectangle if package has no elements, otherwise
 
 ![package diagram](./package-diagram-notation.png)
+
+> usually captures relationships & division of system modules (arch.) like (UserAuth, Cart-and-Order, ProductCatalog, LoyaltySystem, Inventory, Reports, Configs-and-Vault ...)
 
 ## Visibility
 
