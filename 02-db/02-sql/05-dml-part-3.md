@@ -93,6 +93,8 @@ FROM EMPLOYEE BMP JOIN EMPLOYEB MGR
   - read the `where` clause to know which rows are selected
   - read the `select` clause to know which columns are retrieved
 
+> when working with DB scripts (triggers, functions, specific data types like JSONB...), try to minimize vendor specific code to avoid portability issues
+
 ### Steps
 
 - once you know the tables involved, and how they will be joined, you can build the `from` clause
@@ -122,3 +124,13 @@ FROM EMPLOYEE BMP JOIN EMPLOYEB MGR
   - harder to version control and test
   - ties logic to DB implementation (PG is not the same as MySQL)
   - DBs can't easily scale horizontally. so during a load, it's better to use serveral app instances each does simple atomic queries rather than overload the DB server with huge complex queries
+
+- compare using 'Y', 'N' for boolean columns vs. `1`, `0`
+
+- compare soft delete vs. hard delete
+  - cascading deletes ?
+  - do we need the data ?
+
+- when to use composite PK, or introduce a new simple PK ?
+
+- what is CQRS ?
